@@ -53,3 +53,21 @@ h1{
     border-radius: 10px;
     box-shadow: inset 0px 15px 15px lightcoral;
 }
+footer{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    background-color: aquamarine;
+
+}
+.logo1{
+    color: blue;
+}
+.logo2{
+    color: tomato;
+}
+.logo3{
+    background-color: black;
+    color: white;
+}
